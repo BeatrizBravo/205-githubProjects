@@ -1,7 +1,7 @@
 [Visitar Tablero de Clase](https://github.com/EPPR/205/projects/1)
 [Leer Tarjeta Completa](https://github.com/EPPR/205/projects/1#card-58759321)
 
-**Pasos para completar esta actividad:**
+##Pasos para completar esta actividad:
 
 1. [ ] Elige 3 Issues de la columna To do.
 2. [ ] Crea un FORK de este repo.
